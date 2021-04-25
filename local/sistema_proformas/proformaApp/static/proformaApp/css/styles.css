@@ -1,0 +1,13 @@
+header{
+    padding: 20px;
+    background-color: rgba(32, 81, 136, 0.836);
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+}
+
+.menu a{
+    width: 50%;
+}
